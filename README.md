@@ -54,7 +54,12 @@
 |jd_joy_new.js|宠汪汪二代目|2021-06-21|-|-|
 |jd_joy_park_help.js|汪汪乐园每日助力|2021-7-7|京东极速版-赚金币-汪汪乐园|-|
 |jd_joy_reward.js|宠汪汪积分兑换奖品脚本|2021-06-06|-|-|
-|jd_joy_reward.js|宠汪汪积分兑换奖品脚本|2021-06-06|-|-|
+|jd_jump.js|跳跳乐瓜分京豆脚本|2021-05-21|来客有礼(微信小程序)=>跳跳乐或京东APP=》首页=》母婴馆=》底部中间|-|
+|jd_summer_movement.js|燃动夏季|-|-|✅|
+|jd_summer_movement_help.js|燃动夏季_SH助力|-|-|✅|
+|jd_superMarket.js|东东超市|2021-3-4|-|✅|
+
+
 
 在lxk备份脚本基础上增加以下内容，并不断更新
 
@@ -115,4 +120,4 @@ https://www.notion.so/Quantumult-X-cd78c6ab616e4ebf947519b2dd690a0c
 https://www.notion.so/Cent-OS-7-6-1c598629675145988b43a37998a1604a
 
 https://github.com/cdle/jd_study
-* 防走丢:https://t.me/jdscrip
+
