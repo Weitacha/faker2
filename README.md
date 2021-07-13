@@ -20,6 +20,24 @@
 |jd_bean_sign.js|多合一签到|2021-5-6|无|-|
 |jd_beauty.js|美丽研究院|2021-5-6|通知开关 兑换豆数|-|
 |jd_blueCoin.js|东东超市兑换奖品|2021-6-7|通知开关 兑换豆数|-|
+|jd_bookshop.js|口袋书店|-|固定助力码，京东app首页-京东图书|✅|
+|jd_car.js|京东汽车|-|签到满500赛点可兑换500京豆，一天运行一次即可，长期活动|-|
+|jd_cash.js|签到领现金|2021-06-07|京东APP搜索领现金进入|内部|
+|jd_cash_exchange.js|签到领现金兑换|-|-|-|
+|jd_cashHelp.py|签到领现金-助力|2021/7/4|-|-|
+|jd_cfd.js|cfd|-|-|-|
+|jd_cfd_loop.js|cfd|-|-|-|
+|jd_club_lottery.js|摇京豆|2021-5-11|京东APP首页-领京豆-摇京豆|-|
+|jd_daily_egg.js|天天提鹅|2020-11-20|定时收鹅蛋,兑换金币|-|
+|jd_daily_lottery.js|小鸽有礼-每日抽奖|2021-04-16至2021-05-17|惊喜-》我的-》寄件服务-》寻味四季-》右侧瓜分千万京豆|-|
+|jd_delCoupon.js|删除优惠券|2021-01-21|京东APP我的-优惠券|-|
+|jd_dogsEmploy.js|汪汪乐园开工位|-|-|-|
+|jd_DrawEntrance.js|天天优惠大乐透|-|活动入口-领券-券后9.9|-|
+|jd_dreamFactory.js|京东京喜工厂|2021-6-7|京东APP-游戏与互动-查看更多-京喜工厂|加密|
+|jd_europeancup.js|狂欢欧洲杯|-|号1默认给wuzhi助力 后续号给号1|-|
+|jd_dogsEmploy.js|汪汪乐园开工位|-|-|-|
+
+
 
 
 在lxk备份脚本基础上增加以下内容，并不断更新
