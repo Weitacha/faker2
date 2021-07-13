@@ -35,9 +35,12 @@
 |jd_DrawEntrance.js|天天优惠大乐透|-|活动入口-领券-券后9.9|-|
 |jd_dreamFactory.js|京东京喜工厂|2021-6-7|京东APP-游戏与互动-查看更多-京喜工厂|加密|
 |jd_europeancup.js|狂欢欧洲杯|-|号1默认给wuzhi助力 后续号给号1|-|
-|jd_dogsEmploy.js|汪汪乐园开工位|-|-|-|
-
-
+|JD_extra_cookie.js|cookie获取2ya|-|-|-|
+|jd_fakersign.js|多合一签到脚本|2021.06.17| @NobyDa|-|
+|jd_fruit.js|东东农场|2021-5-18|-|-|
+|jd_get_share_code.js|一键获取我仓库所有需要互助类脚本的互助码|2021-5-18|-|-|
+|jd_gold_creator.js|金榜创造营|2021-05-21至2021-12-31|2021-05-28|-|
+|jd_fruit.js|早起福利|2021-5-18|-|-|
 
 
 在lxk备份脚本基础上增加以下内容，并不断更新
@@ -98,5 +101,5 @@ https://www.notion.so/Quantumult-X-cd78c6ab616e4ebf947519b2dd690a0c
 【青龙系列教程】
 https://www.notion.so/Cent-OS-7-6-1c598629675145988b43a37998a1604a
 
-
+https://github.com/cdle/jd_study
 * 防走丢:https://t.me/jdscrip
