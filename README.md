@@ -1,7 +1,5 @@
-## 重要通知
-### 薄雷收淡雨，雌蜺映雄虹。云拥奇峰出，霞飞散绮红。
+### 复刻Faker维护仓库，收集全网目前能正常使用的脚本。
 
-Faker维护仓库，收集全网目前能正常使用的脚本。
 在lxk备份脚本基础上增加以下内容，并不断更新
 
 * 1、签到领现金-助力
@@ -85,7 +83,7 @@ https://www.notion.so/Cent-OS-7-6-1c598629675145988b43a37998a1604a
 
 ## Special thanks to:
 
-
+3
 * [@NobyDa](https://github.com/NobyDa)
 
 * [@chavyleung](https://github.com/chavyleung)
