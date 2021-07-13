@@ -1,8 +1,7 @@
 #### 复刻Faker维护仓库，收集全网目前能正常使用的脚本。
 ## 其他
-
 <details>
-<summary>更新日志[点击展开]</summary>
+<summary>更新日志-[点击展开]</summary>
 
 - 2021-07-13
     * 添加fake2仓库
