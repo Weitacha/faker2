@@ -41,7 +41,20 @@
 |jd_get_share_code.js|一键获取我仓库所有需要互助类脚本的互助码|2021-5-18|-|-|
 |jd_gold_creator.js|金榜创造营|2021-05-21至2021-12-31|2021-05-28|-|
 |jd_fruit.js|早起福利|2021-5-18|-|-|
-
+|jd_health.js|东东健康社区|2021-4-22|author: 疯疯|-|
+|jd_health_collect.js|健康社区收集能量|2021-4-23|author: 疯疯|-|
+|jd_jddj_fruit.js|京东到家果园|-|-|-|
+|jd_jdfactory.js|东东工厂|2020-12-26|京东APP首页-数码电器-东东工厂|-|
+|jd_JDJRValidator_Pure.js|-|-|-|-|
+|jd_jdzz.js|京东赚赚|-|长期活动，每日收益2毛|✅|
+|jd_jin_tie.js|领金贴|-|京东APP首页-领金贴|-|
+|jd_joy.js|京东宠汪汪|-|京东APP我的-更多工具-宠汪汪|-|
+|jd_joy_feedPets.js|宠汪汪喂食|2021-6-6|京东APP我的-更多工具-宠汪汪|加密|
+|jd_joy_help.js|宠汪汪强制为别人助力|2021-1-21|-|-|
+|jd_joy_new.js|宠汪汪二代目|2021-06-21|-|-|
+|jd_joy_park_help.js|汪汪乐园每日助力|2021-7-7|京东极速版-赚金币-汪汪乐园|-|
+|jd_joy_reward.js|宠汪汪积分兑换奖品脚本|2021-06-06|-|-|
+|jd_joy_reward.js|宠汪汪积分兑换奖品脚本|2021-06-06|-|-|
 
 在lxk备份脚本基础上增加以下内容，并不断更新
 
