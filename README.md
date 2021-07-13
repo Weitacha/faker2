@@ -97,7 +97,7 @@
 
 
 【Faker集合仓库】
-ql repo https://ghproxy.com/https://github.com/shufflewzc/faker2.git "jd_|jx_|getJDCookie" "activity|backUp" "^jd[^_]|USER|ZooFaker_Necklace|JDJRValidator_Pure"
+ql repo https://ghproxy.com/https://github.com/Weitacha/faker2.git "jd_|jx_|getJDCookie" "activity|backUp" "^jd[^_]|USER|ZooFaker_Necklace|JDJRValidator_Pure"
 
 【财富岛依赖安装命令】
 docker exec -it QL bash -c "npm install axios date-fns"
