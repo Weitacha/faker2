@@ -2,7 +2,7 @@
 ## 其他
 
 <details>
-<summary>更新日志（点击展开）</summary>
+<summary>更新日志[点击展开]</summary>
 
 - 2021-07-13
     * 添加fake2仓库
